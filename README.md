@@ -1,7 +1,7 @@
-# bizwiz
-NOTE: This package is still a major work in progress!
+# biz-wizard
+UNDER DEVELOPMENT
 
-bizwiz was created to make office life a bit easier. This package contains a helper functions meant to facilitate common business tasks. The simple API enables even the most non-technical users to benefit. 
+biz-wizard was created to make office life a bit easier. This package contains a helper functions meant to facilitate common business tasks. The simple API enables even the most non-technical users to benefit. 
 
 With bizwiz you can:
 * Quickly generate beautiful formatted tables
