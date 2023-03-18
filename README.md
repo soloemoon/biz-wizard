@@ -9,6 +9,15 @@ With bizwiz you can:
 * Efficiently work with flat files, including excel, csv, and parquet
 * Send formatted HTML emails with numerous attachments and embedded images
 
+biz-wizard supports Python 3.9+ on Windows, Mac, and Linux. You can install biz-wizard using pip:
+```
+pip install biz-wizard
+```
+
+or clone the Git repository with:
+```
+git clone https://github.com/soloemoon/biz-wizard
+```
 
 # Tables
 Easily create custom tables with optional sparklines using the tables module. Use the default styling (shown below) or customize the table to your hearts content through the helper functions.  
