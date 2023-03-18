@@ -2,7 +2,7 @@ from distutils.core import setup
 from setuptools import setup, find_packages
 
 setup(
-    name='bizwiz',
+    name='biz-wizard',
     version='1.0A',
     author='Solomon', 
     author_email='soloemoon@gmail.com',
